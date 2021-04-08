@@ -27,6 +27,6 @@
  <img src="https://image.flaticon.com/icons/png/128/888/888882.png" width="64" height="64">
  
 ## Stats 📈
-
-<img src="https://github-readme-stats.vercel.app/api?username=Xlient&theme=nightowl&show_icons=true" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlient&theme=nightowl&show_icons=true&layout=compact" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xlient&theme=nightowl&show_icons=true" align="center"><a href="https://github.com/Xlient/Smart-HomeGarden"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Xlient&repo=Smart-HomeGarden&theme=nightowl" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlient&theme=nightowl&show_icons=true&layout=compact" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Xlient&theme=nightowl&show_icons=true" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xlient&theme=nightowl&show_icons=true">
 
