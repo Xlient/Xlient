@@ -4,7 +4,7 @@
 
 
 <p align="center">I'm currently Software Engineer Intern and a Computer Information Systems student at Schoolcraft College. I'm a enthusiastic learner who's always willing to learn new technologies and using them to solve real world problems / my minor inconveniences 😂😎.  My favorite programming languages are C++ & C#. 
-  My main interests are in Web Development & IoT/embedded systems (maybe Design 😮?? but programming is more fun )
+  My main interests are in Web Development & IoT/embedded systems but i like to explore many different areas
 </p>
   
 ### 🌱 I’m currently working on: <img src="https://media1.tenor.com/images/62550b92246d0919cc9e7884f7be9817/tenor.gif?itemid=15349911" align="right">
