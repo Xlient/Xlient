@@ -3,11 +3,11 @@
 <h1 align="center"> Hi there👋  </h1> <img src="https://gpvc.arturio.dev/Xlient" align="center">
 
 
-<p align="center">I'm currently Software Engineer Intern and a Computer Information Systems student at Schoolcraft College. I'm a enthusiastic learner who's always willing to learn new technologies and using them to solve real world problems / my minor inconveniences 😂😎.  My favorite programming languages are C++ & C#. 
-  My main interests are in Web Development & IoT/embedded systems but i like to explore many different areas
+<p align="justify">I'm currently Software Engineer Intern and a Computer Information Systems student at Schoolcraft College. I'm a enthusiastic learner who's always willing to learn new technologies and using them to solve real world problems / my minor inconveniences 😂😎.  My favorite programming languages are C++ & C#. 
+ Im a bit of a generalist as i like to explore many different areas of development
 </p>
   
-### 🌱 I’m currently working on: <img src="https://media1.tenor.com/images/62550b92246d0919cc9e7884f7be9817/tenor.gif?itemid=15349911" align="right">
+### 🌱 I’m currently working on: 
 - <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 - Web  & IoT Projects mostly
 - Writing cleaner code and learning C++ and C# in depth
