@@ -1,33 +1,49 @@
-![Bannerimage](images/banner.gif)
+<h1 align="center"> <img src="https://media.giphy.com/media/2ipOXiyd3KuwIraVr2/giphy.gif?cid=ecf05e473m55jl2ztu01s96fwdlkrmvxm6fhtgi3n7jt0ias&rid=giphy.gif&ct=s" width="332" height="332"> </h1>
 
-<h1 align="center"> Hi there👋  </h1> <img src="https://gpvc.arturio.dev/Xlient" align="center">
+<h1 align="center"> Hi there👋 My name is La'Kaleigh  </h1> <img src="https://gpvc.arturio.dev/Xlient" align="center">
 
 
-<p align="justify">I'm currently Software Engineer Intern and a Computer Information Systems student at Schoolcraft College. I'm a enthusiastic learner who's always willing to learn new technologies and using them to solve real world problems / my minor inconveniences 😂😎.  My favorite programming languages are C++ & C#. 
- Im a bit of a generalist as i like to explore many different areas of development
-</p>
-  
-### 🌱 I’m currently working on: 
-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-- Web  & IoT Projects mostly
-- Writing cleaner code and learning C++ and C# in depth
+-   👩🏾‍🎓 I'm currently a Computer Information Systems student at Schoolcraft College 
+-  🧪 I  make cool Hardware, Web , ML , Game Hacks!
+-  ✨ I like to Travel (16 Countries so far!) and learn languages (Arabic, Mandarin, ? undecided) 
+### 🌱 I’m currently working on:
+<img align="right" src="https://media.giphy.com/media/ZQB6ju1t8DSy4/giphy.gif?cid=ecf05e476l4hfkho7ep3jk8mirbe0ctcouxy4rix4rfk0igm&rid=giphy.gif&ct=s">
+
 - Practicing Data structures & Algorithms 🧠🤯
 - Contributing to Open-Source more 💌
--  ~stop drinking pepsi~   <img src="https://media.tenor.com/images/6f9652e79f9697ff8426892081a460ae/tenor.gif" width="32" height="32">
+<a href="https://github.com/Xlient/tq-CSharp">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xlient&repo=tq-Csharp&theme=material-palenight"> </a>
 
-### 📫 How to reach me: 
+### How to reach me 📢
 <a href="mailto:lakaleigh.harris@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/la-kaleigh-harris-01/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## My Tech Stack
-<img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="64" height="64"> <img src="https://image.flaticon.com/icons/png/128/919/919854.png"  width="64" height="64"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="64" height="64"> <img src="https://user-images.githubusercontent.com/35268101/115654179-9b8c7b00-a2fe-11eb-81fc-620308580c67.png" width="64" height="64"> <img src="https://user-images.githubusercontent.com/35268101/115654333-f6be6d80-a2fe-11eb-8bc8-82461d69ec07.png" width="64" height="64"> <img src="https://image.flaticon.com/icons/png/128/919/919828.png" width="64" height="64"> <img src="https://user-images.githubusercontent.com/35268101/115654499-4309ad80-a2ff-11eb-917a-f9d061efb6a4.png" width="64" height="64"> 
+## My Tech Stack 🥞
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### Frameworks/Platforms/Libs
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## My ToolBox 🔧
-   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" width="64" height="64"> <img src="https://img.icons8.com/fluent/48/000000/google-cloud.png" width="64" height="64"> <img src="https://freepngimg.com/download/ubuntu/65755-fedora-icons-private-server-computer-operating-virtual.png" width="64" height="64">
- <img src="https://image.flaticon.com/icons/png/128/888/888882.png" width="64" height="64"> <img src="https://img.icons8.com/color/48/000000/arduino.png" width="64" height="64"/>
-
+## Tools ⚙ 
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  
 ## Stats 📈
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlient&theme=nightowl&show_icons=true&layout=compact" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xlient&theme=nightowl&show_icons=true" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xlient&theme=nightowl&show_icons=true">
+<a href="https://github.com/Xlient">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlient&theme=material-palenight" />
+</a>
+<a href="https://github.com/Xlient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlient&layout=compact&theme=material-palenight" />
+</a>
+<a href="https://github.com/Xlient/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xlient&show_icons=true&theme=material-palenight" />
+</a>
+
+
 
