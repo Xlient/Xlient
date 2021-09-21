@@ -4,7 +4,7 @@
 
 
 -   👩🏾‍🎓 I'm currently a Computer Information Systems student at Schoolcraft College 
--  🧪 I  make cool Hardware, Web , ML , Game Hacks!
+-  🧪 Im interested in Hardware, Web Dev, ML , Game Dev and AR/VR.
 -  ✨ I like to Travel (16 Countries so far!) and learn languages (Arabic, Mandarin, ? undecided) 
 ### 🌱 I’m currently working on:
 <img align="right" src="https://media.giphy.com/media/ZQB6ju1t8DSy4/giphy.gif?cid=ecf05e476l4hfkho7ep3jk8mirbe0ctcouxy4rix4rfk0igm&rid=giphy.gif&ct=s">
