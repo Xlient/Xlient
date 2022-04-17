@@ -12,6 +12,8 @@
 - Contributing to Open-Source more 💌
 <a href="https://github.com/Xlient/tq-CSharp">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xlient&repo=tq-Csharp&theme=material-palenight"> </a>
+<a href="https://github.com/Xlient/cosmos">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xlient&repo=cosmos&theme=material-palenight"> </a>
 
 ### How to reach me 📢
 <a href="mailto:lakaleigh.harris@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
