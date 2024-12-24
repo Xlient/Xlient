@@ -2,8 +2,8 @@
 
 <h1 align="center"> Hi there👋 My name is La'Kaleigh  </h1> <img src="https://gpvc.arturio.dev/Xlient" align="center">
 
--  🧪 Im interested in Hardware, DevOps, Game Dev and AR/VR.
--  ✨ I like to Travel (16 Countries so far!) and learn languages (Arabic, Mandarin, ? undecided) 
+-  🧪 Im interested in Hardware, DevOps, Game Dev and AI/ML.
+-  ✨ I like to Travel (18 Countries so far!) and learn languages (Arabic, Mandarin, ? undecided) 
 ### 🌱 I’m currently working on:
 - Contributing to Open-Source more 💌
 <a href="https://github.com/Xlient/tq-CSharp">
